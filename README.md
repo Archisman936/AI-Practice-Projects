@@ -1,1 +1,1 @@
-# Practice Projects on Machine Learning and Deep Learning
+# Projects for Practicing Machine Learning and Deep Learning Algorithims
