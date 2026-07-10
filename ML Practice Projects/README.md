@@ -1,1 +1,1 @@
-Projects used for practicing Machine Learning Algorithims
+# Projects used for practicing Machine Learning Algorithims
