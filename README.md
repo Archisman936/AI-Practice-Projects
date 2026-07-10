@@ -1,1 +1,1 @@
-# AI-Projects
+# Practice Projects on Machine Learning and Deep Learning
